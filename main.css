@@ -1,0 +1,10 @@
+* {
+  color: black;
+}
+body {
+  margin: 0;
+  padding: 0;
+}
+  h1 {
+    font-size: 48px;
+  }
