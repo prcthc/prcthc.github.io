@@ -14,3 +14,9 @@ h1 {
   height: 200px;
   background: gray;
 }
+.flex {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  flex-flow: coloumn-wrap;
+}
