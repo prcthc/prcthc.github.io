@@ -5,6 +5,12 @@ body {
   margin: 0;
   padding: 0;
 }
-  h1 {
-    font-size: 48px;
-  }
+h1 {
+  font-size: 48px;
+}
+.tile {
+  display: inline-block;
+  width: 200px;
+  height: 200px;
+  background: gray;
+}
