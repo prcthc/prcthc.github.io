@@ -21,3 +21,6 @@ h1 {
   flex-flow: coloumn-wrap;
   justify-content: center;
 }
+div {
+  padding: 1rem;
+}
